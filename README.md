@@ -1,5 +1,5 @@
 # Smealog
-An interesting, theory-based, cryptography challenge featured in the FCSC 2021 CTF (French cybersecurity challenge), where the aim was to compute the discrete logarithm with an elliptic curve over a ring. Being more in the theoritical side of cryptography, it had few solves during the challenge, so I'm sharing a solution I came up with during the event.
+An interesting, theory-based, cryptography challenge featured in the FCSC 2021 CTF (French cybersecurity challenge), where the aim was to compute the discrete logarithm with an elliptic curve over a ring. Being more on the theoretical side of cryptography, it had few solves during the challenge, so I'm sharing a solution I came up with during the event.
 
 Smealog.sage and output.txt are the two files provided by the challenge.
 
